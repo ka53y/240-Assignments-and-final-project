@@ -1,0 +1,18 @@
+This project starts off by asking the username and password of the user and checks to see if they are a programmer approved or unapproved
+
+each of those requirements begins a different do while statement with different options based on their clearance
+
+the programmer has the option to list users 
+add characters
+alter character
+delete user 
+approve user
+
+the approved user has the option to play the game or refer an unapproved player which will allow them to become approved easier if they could not pass their test
+
+the unapproved user has the option to view the characters in the game or to prove their worth 
+
+if they are unable to prove their worth and do not have a recommendation they can not play the game
+
+if they prove their worth they are able to relogin and play the game as an approved player
+
